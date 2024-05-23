@@ -3,9 +3,9 @@
  * 
  * This has been tested on the following platforms...
  * 
- * On ESP32, connect the LD2410 to GPIO pins 32&33
- * On ESP32S2, connect the LD2410 to GPIO pins 8&9
- * On ESP32C3, connect the LD2410 to GPIO pins 4&5
+ * On ESP32, connect the LD2410 to GPIO pins Rx=32, Tx=33
+ * On ESP32S2, connect the LD2410 to GPIO pins Rx=8, Tx=9
+ * On ESP32C3, connect the LD2410 to GPIO pins Rx=4, Tx=5
  * On Arduino Leonardo or other ATmega32u4 board connect the LD2410 to GPIO pins TX & RX hardware serial
  * 
  * The serial configuration for other boards will vary and you'll need to assign them yourself
